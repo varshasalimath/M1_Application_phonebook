@@ -18,7 +18,7 @@
             complete manual task of maintaining records is vanished .soo many applications evolved to store the data in a secured manner.
        
  ## Defining about application
-       Phonebook application do all the basic tasks such asnadd new , modify, list, delte, search.
+       Phonebook application do all the basic tasks such as add new , modify, list, delte, search.
        
  # SWOT analysis 
   
