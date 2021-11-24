@@ -63,7 +63,17 @@
              This phonebook application is coded and made using the  following compilers 1 )TurboC++ Or 2) Code::blocks
               This application size is 33kb .
 
-            
+   # Feature of phonebook
+     
+    1) Add Contact
+
+     2) Search Contact
+
+     3) Display Contacts
+
+      4) Modify Contact
+
+      5) Delete Contact
             
             
             
