@@ -73,5 +73,19 @@
       4) Modify Contact
 
       5) Delete Contact
+      
+      
+   # Challenges Faced and How Was It Overcome
+1.I have faced issues in file handling. so, I used pointers and linkedlist.
+
+2.Updating and Deleting a file was overcame by using a temporary file to store data for some time.
+
+# Learning Resources
+1.Tutorials point
+
+2.Geeksforgeeks
+
+3.future skills
+
             
             
