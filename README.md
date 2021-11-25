@@ -3,8 +3,8 @@
  Phonebook 
 
 # BADGES
-| Code Quality Score | Code Grade | Codacy Badge  |CPP Check |
-|--------------------|------------|--------------|-----------|
+| Code Quality Score |
+|--------------------|
 | [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9686e15a0f9e46829c42a11180fb54f4)](https://www.codacy.com/gh/varshasalimath/M1_Application_phonebook/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=varshasalimath/M1_Application_phonebook&amp;utm_campaign=Badge_Grade) |
 # **Phonebook**
 A sample C programming code for a phonebook application program is given below. This program will perform the below basic perations.
